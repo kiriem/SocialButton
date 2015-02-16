@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0E09DA7D-A1B7-469E-BD60-D8097D16DD00</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SocialButton</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2DF1D9383FE6763E360BFC4ED2BE302A4BADF461</key>
+		<string>https://github.com/mjk0513/SocialButton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SocialButton.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2DF1D9383FE6763E360BFC4ED2BE302A4BADF461</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mjk0513/SocialButton.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2DF1D9383FE6763E360BFC4ED2BE302A4BADF461</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DF1D9383FE6763E360BFC4ED2BE302A4BADF461</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocialButton</string>
+		</dict>
+	</array>
+</dict>
+</plist>

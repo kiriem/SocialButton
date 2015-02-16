@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //self.title = "SocialButton";
         self.view.backgroundColor = UIColor.whiteColor();
         self.navigationController?.navigationBar.barTintColor = UIColor(red:0.24, green:0.35, blue:0.6, alpha:1);
         self.navigationController?.setNavigationBarHidden(true, animated: true);
@@ -44,18 +43,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    func timeSet()->String{
-        let now = NSDate();
-        let dateFormatter = NSDateFormatter();
-        
-        dateFormatter.locale = NSLocale(localeIdentifier: "ja_JP");
-        dateFormatter.timeStyle = .MediumStyle;
-        dateFormatter.dateStyle = .MediumStyle;
-        
-        var time = dateFormatter.stringFromDate(now);
-        
-        return time;
-    }
     
     func tweet(sender: AnyObject){
         let tweetVC = TwitterViewController();
